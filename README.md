@@ -29,14 +29,21 @@ If you love this boilerplate, give us a star, you will be a ray of sunshine in o
   },
   
  3- Also copy paste the index.js file and app.js file into your project.
+ 
  4- Follow the steps for both ios and android for vector icons 
+ 
   Link- https://github.com/oblador/react-native-vector-icons
+  
  5- Type npm install and after that run android and then you are allow to work on it
  
 # Features inside this Boilerplate
  1- Redux
+ 
  2- Axios interceptors
+ 
  3- Vector Icons
+ 
  4- Stack Navigation & Tab Navigation
  
-# Thanks
+ 
+# Thank You
