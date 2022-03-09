@@ -8,6 +8,7 @@ If you love this boilerplate, give us a star, you will be a ray of sunshine in o
 
 # Steps - 
 1- If you wanted to create your own project then you have to copy paste my src file first.
+
 2- The next step is to copy paste the json dependencies into the pakage.json file 
 
 "dependencies": {
