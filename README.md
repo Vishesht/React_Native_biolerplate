@@ -9,25 +9,24 @@ If you love this boilerplate, give us a star, you will be a ray of sunshine in o
 # Steps - 
 1- If you wanted to create your own project then you have to copy paste my src file first.
 
-2- The next step is to copy paste the json dependencies into the pakage.json file 
+2- The next step is to install these all libraries
 
-"dependencies": {
-    "@react-native-async-storage/async-storage": "^1.16.1",
-    "@react-native-community/art": "^1.2.0",
-    "@react-navigation/bottom-tabs": "^6.2.0",
-    "@react-navigation/native": "^6.0.8",
-    "@react-navigation/stack": "^6.1.1",
-    "axios": "^0.26.0",
-    "react": "17.0.2",
-    "react-native": "0.67.3",
-    "react-native-gesture-handler": "^2.3.0",
-    "react-native-responsive-screen": "^1.4.2",
-    "react-native-safe-area-context": "^4.1.2",
-    "react-native-screens": "^3.13.1",
-    "react-native-vector-icons": "^9.1.0",
-    "react-redux": "^7.2.6",
-    "redux-thunk": "^2.4.1"
-  },
+npm install 
+    "@react-native-async-storage/async-storage",
+    "@react-native-community/art",
+    "@react-navigation/bottom-tabs",
+    "@react-navigation/native",
+    "@react-navigation/stack",
+    "axios",
+    "react",
+    "react-native",
+    "react-native-gesture-handler",
+    "react-native-responsive-screen",
+    "react-native-safe-area-context",
+    "react-native-screens",
+    "react-native-vector-icons",
+    "react-redux",
+    "redux-thunk"
   
  3- Also copy paste the index.js file and app.js file into your project.
  
