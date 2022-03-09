@@ -6,9 +6,10 @@ The boilerplate provides an optimized architecture for building solid cross-plat
 
 If you love this boilerplate, give us a star, you will be a ray of sunshine in our lives :)
 
-Steps - 
+# Steps - 
 1- If you wanted to create your own project then you have to copy paste my src file first.
 2- The next step is to copy paste the json dependencies into the pakage.json file 
+
 "dependencies": {
     "@react-native-async-storage/async-storage": "^1.16.1",
     "@react-native-community/art": "^1.2.0",
@@ -26,15 +27,16 @@ Steps -
     "react-redux": "^7.2.6",
     "redux-thunk": "^2.4.1"
   },
+  
  3- Also copy paste the index.js file and app.js file into your project.
  4- Follow the steps for both ios and android for vector icons 
   Link- https://github.com/oblador/react-native-vector-icons
  5- Type npm install and after that run android and then you are allow to work on it
  
- Features inside this Boilerplate
+# Features inside this Boilerplate
  1- Redux
  2- Axios interceptors
  3- Vector Icons
  4- Stack Navigation & Tab Navigation
  
-Thanks
+# Thanks
